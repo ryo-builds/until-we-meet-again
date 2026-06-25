@@ -12,4 +12,4 @@ A story-driven HTML5 pixel art game built from scratch using vanilla JavaScript.
 
 ## Play
 
-Live Demo: [https://your-netlify-link.netlify.app](https://2d-novel-ryo.netlify.app/)
+Live Demo: https://2d-novel-ryo.netlify.app/
